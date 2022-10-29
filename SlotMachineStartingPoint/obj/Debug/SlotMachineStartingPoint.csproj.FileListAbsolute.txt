@@ -1,0 +1,9 @@
+C:\Users\Joyce\source\repos\SlotMachineStartingPoint\SlotMachineStartingPoint\bin\Debug\SlotMachineStartingPoint.dll
+C:\Users\Joyce\source\repos\SlotMachineStartingPoint\SlotMachineStartingPoint\bin\Debug\SlotMachineStartingPoint.pdb
+C:\Users\Joyce\source\repos\SlotMachineStartingPoint\SlotMachineStartingPoint\obj\Debug\SlotMachineStartingPoint.csproj.AssemblyReference.cache
+C:\Users\Joyce\source\repos\SlotMachineStartingPoint\SlotMachineStartingPoint\obj\Debug\SlotMachineStartingPoint.Properties.Resources.resources
+C:\Users\Joyce\source\repos\SlotMachineStartingPoint\SlotMachineStartingPoint\obj\Debug\SlotMachineStartingPoint.UserControl1.resources
+C:\Users\Joyce\source\repos\SlotMachineStartingPoint\SlotMachineStartingPoint\obj\Debug\SlotMachineStartingPoint.csproj.GenerateResource.cache
+C:\Users\Joyce\source\repos\SlotMachineStartingPoint\SlotMachineStartingPoint\obj\Debug\SlotMachineStartingPoint.csproj.CoreCompileInputs.cache
+C:\Users\Joyce\source\repos\SlotMachineStartingPoint\SlotMachineStartingPoint\obj\Debug\SlotMachineStartingPoint.dll
+C:\Users\Joyce\source\repos\SlotMachineStartingPoint\SlotMachineStartingPoint\obj\Debug\SlotMachineStartingPoint.pdb
